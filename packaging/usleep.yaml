@@ -1,0 +1,14 @@
+Name: usleep
+Summary: Sleeps for microseconds
+Version: 1
+Release: 1
+Group: System/Base
+License: GPLv2
+URL: http://moblin.org/
+Sources:
+    - "%{name}-%{version}.tar.gz"
+Description: A version of /bin/sleep that sleeps for microsecond intervals.
+
+PkgBR:
+    - popt-devel
+Configure: none
