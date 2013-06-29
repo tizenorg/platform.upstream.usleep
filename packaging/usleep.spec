@@ -54,6 +54,7 @@ rm -rf %{buildroot}
 
 
 %files
+%manifest %{name}.manifest
 %defattr(-,root,root,-)
 %manifest %{name}.manifest
 # >> files
