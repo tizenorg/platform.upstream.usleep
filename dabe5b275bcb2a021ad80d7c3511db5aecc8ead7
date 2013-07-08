@@ -1,0 +1,8 @@
+Change-Id: Idabe5b275bcb2a021ad80d7c3511db5aecc8ead7
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:39:31 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4896
+Project: platform/upstream/usleep
+Branch: refs/heads/tizen
