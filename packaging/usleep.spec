@@ -43,6 +43,10 @@ rm -rf %{buildroot}
 # << install pre
 %make_install
 
+# license
+mkdir -p %{buildroot}/usr/share/license
+cp LICENSE %{buildroot}/usr/share/license/%{name}
+
 # >> install post
 
 
@@ -60,4 +64,5 @@ rm -rf %{buildroot}
 # >> files
 %{_mandir}/man*/*
 /bin/usleep
+/usr/share/license/%{name}
 # << files
