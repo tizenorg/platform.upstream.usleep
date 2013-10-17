@@ -1,0 +1,4 @@
+* Mon Oct 21 2013 Jacek Bukarewicz <j.bukarewicz@samsung.com> accepted/tizen/20130913.063235@443e3cc
+- Minor packaging-related changes and rpmlint fixes
+- Add license file and NOTICE file into rpm package
+
